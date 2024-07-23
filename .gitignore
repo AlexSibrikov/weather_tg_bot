@@ -11,6 +11,12 @@ node_modules/
 *.o
 *.out
 
+# Ignore the binary file
+bot
+
+# Ignore VS Code settings directory
+.vscode/
+
 # Ignore logs
 *.log
 
