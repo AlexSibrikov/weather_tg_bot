@@ -17,14 +17,14 @@ This is a simple telegram bot for weather informing.
 ## Getting Started
 
 To get started, you need to:
-- Add API tokens(tg bot and weatherAPI) to config.json. 
+- Add API tokens(Telegram and weatherAPI) to config.json. 
 - Install Docker on your system.
 
 Follow these steps to build and run the project:
 
 ```bash
-docker build -t my_docker_project .
-docker run my_docker_project
+docker build -t weather_tg_bot .
+docker run weather_tg_bot
 ```
 
 ## LICENSE
