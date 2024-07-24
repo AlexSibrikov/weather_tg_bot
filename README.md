@@ -5,6 +5,7 @@ This is a simple telegram bot for weather informing.
 ## External sources
 
 – https://github.com/reo7sp/tgbot-cpp.git // API for Telegram
+
 – https://www.weatherapi.com // Weather data
 
 
